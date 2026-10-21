@@ -1,16 +1,12 @@
-## Hi there 👋
+  ### Kevin Ayala
+  Backend developer in Charlotte, NC. Seven years running IT for a consulate,
+  now building backend systems in Java and Spring Boot. Bilingual English/Spanish.
 
-<!--
-**kvn95a/kvn95a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  **Current work**
+  - **Petty Cash Management System**: Spring Boot, PostgreSQL, plain JDBC, JWT,
+    Flyway. State-machine-driven REST API modeled on a real government finance
+    process. 100+ tests.
+  - **Client sites**: tikkatequila.com (Astro on Cloudflare Workers),
+    stembridges.org (bilingual Astro site on Cloudflare Pages)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **Stack:** Java · Spring Boot · PostgreSQL · Docker · TypeScript · Cloudflare
